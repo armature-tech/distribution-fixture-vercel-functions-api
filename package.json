@@ -1,8 +1,8 @@
 {
-  "name": "distribution-fixture-vercel-functions-api",
+  "name": "distribution-fixture-serverless-pricing-api",
   "version": "1.0.0",
   "private": true,
-  "description": "Small production API fixture for distribution testing against Vercel Functions.",
+  "description": "Small production API fixture for distribution testing against serverless HTTP functions.",
   "type": "commonjs",
   "engines": {
     "node": ">=22"
